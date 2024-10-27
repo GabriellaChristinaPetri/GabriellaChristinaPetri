@@ -7,6 +7,4 @@
 ✒️ No meu tempo livre, gosto de me atualizar sobre as novidades no mundo da tecnologia, além de aprofundar meu conhecimento em linguagens frequentes.
 
 HTML5 CSS3 JavaScript C C++ PHP PostgreSQL MySQL SQL Git GitHub Figma
-
-GitHub Stats ⚡
   
